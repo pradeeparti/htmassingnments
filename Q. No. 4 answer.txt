@@ -1,0 +1,233 @@
+ Question 4
+ Write a short note on Tag and Elements with an Examples ?
+
+answer-
+HTML tags are the keywords on a web page that define how your web browser must format and display your web page.
+
+Basic HTML Tags:-
+Head Tag
+The head tag <head> contains all the elements describing the document. 
+
+Title Tag
+The title tag <title> specifies the HTML page title, which is shown in the browser’s title bar. 
+
+Body Tag
+The body tag <body> is where you insert your web page’s content. 
+
+Paragraph Tag
+A paragraph tag <p> is used to define a paragraph on a web page.
+
+Heading Tag 
+The HTML heading tag is used to define the heading of the HTML document. The <h1> tag defines the most important tag, and <h6> defines  the least.
+The Best Guide to HTML Tags
+By Taha Sufiyan
+Last updated on Feb 20, 202362600
+The Best Guide to HTML Tags
+Table of Contents
+What Is HTML?What Is an HTML Tag?Basic HTML TagsFormatting TagsLink TagView More
+Anytime you go on the internet, you are interacting with HTML code and related tags. HTML is primarily used to develop web pages and web applications that run on web browsers like Chrome, Firefox, and Internet Explorer. HTML tags are keywords present on a web page that define how your web browser must format and display the contents.
+
+Learn From The Best Mentors in the Industry!
+Automation Testing Masters ProgramEXPLORE PROGRAMLearn From The Best Mentors in the Industry!
+What Is HTML?
+HTML, which stands for Hypertext Markup Language, is the language used to describe structured documents and the language used to create web pages on the internet.
+
+You can use any text editor to write the HTML code, such as  Notepad (PC) or TextEdit (Mac). For our demonstration, we will use a sublime text editor, which you can download at https://www.sublimetext.com/3. 
+
+Save the file with the .html extension, and open it using a web browser of your choice.
+
+html_file
+
+What Is an HTML Tag?
+HTML tags are the keywords on a web page that define how your web browser must format and display your web page.
+
+Almost all tags contain two parts, an opening, and a closing tag. For example, <html> is the opening tag and </html> is the closing tag. Note that the closing tag has the same text as the opening tag, but has an additional forward-slash ( / ) character. 
+
+There are a total of 100 HTML tags. We will divide them into categories and discuss the important ones in this article.
+
+Basic HTML Tags
+Head Tag
+The head tag <head> contains all the elements describing the document. 
+
+Title Tag
+The title tag <title> specifies the HTML page title, which is shown in the browser’s title bar. 
+
+Body Tag
+The body tag <body> is where you insert your web page’s content. 
+
+Paragraph Tag
+A paragraph tag <p> is used to define a paragraph on a web page.
+
+Heading Tag 
+The HTML heading tag is used to define the heading of the HTML document. The <h1> tag defines the most important tag, and <h6> defines  the least.
+
+Let’s practice using these tags and create a web page with them:
+
+Title_and_heading_tag-html
+
+Output_title_and_heading_tag
+
+Formatting Tags
+Emphasis tag
+The HTML <em> tag is used to emphasize the particular text in a paragraph. 
+
+Bold Tag
+The <b> tag is used to make the text bold.
+
+Italic Tag
+The <i> tag is used to make the text italic.
+
+Underline Tag
+The <u> tag is used to set the text underline.
+
+The Best Guide to HTML Tags
+By Taha Sufiyan
+Last updated on Feb 20, 202362600
+The Best Guide to HTML Tags
+Table of Contents
+What Is HTML?What Is an HTML Tag?Basic HTML TagsFormatting TagsLink TagView More
+Anytime you go on the internet, you are interacting with HTML code and related tags. HTML is primarily used to develop web pages and web applications that run on web browsers like Chrome, Firefox, and Internet Explorer. HTML tags are keywords present on a web page that define how your web browser must format and display the contents.
+
+Learn From The Best Mentors in the Industry!
+Automation Testing Masters ProgramEXPLORE PROGRAMLearn From The Best Mentors in the Industry!
+What Is HTML?
+HTML, which stands for Hypertext Markup Language, is the language used to describe structured documents and the language used to create web pages on the internet.
+
+You can use any text editor to write the HTML code, such as  Notepad (PC) or TextEdit (Mac). For our demonstration, we will use a sublime text editor, which you can download at https://www.sublimetext.com/3. 
+
+Save the file with the .html extension, and open it using a web browser of your choice.
+
+html_file
+
+What Is an HTML Tag?
+HTML tags are the keywords on a web page that define how your web browser must format and display your web page.
+
+Almost all tags contain two parts, an opening, and a closing tag. For example, <html> is the opening tag and </html> is the closing tag. Note that the closing tag has the same text as the opening tag, but has an additional forward-slash ( / ) character. 
+
+There are a total of 100 HTML tags. We will divide them into categories and discuss the important ones in this article.
+
+Basic HTML Tags
+Head Tag
+The head tag <head> contains all the elements describing the document. 
+
+Title Tag
+The title tag <title> specifies the HTML page title, which is shown in the browser’s title bar. 
+
+Body Tag
+The body tag <body> is where you insert your web page’s content. 
+
+Paragraph Tag
+A paragraph tag <p> is used to define a paragraph on a web page.
+
+Heading Tag 
+The HTML heading tag is used to define the heading of the HTML document. The <h1> tag defines the most important tag, and <h6> defines  the least.
+
+Let’s practice using these tags and create a web page with them:
+
+Title_and_heading_tag-html
+
+Output_title_and_heading_tag
+
+Formatting Tags
+Emphasis tag
+The HTML <em> tag is used to emphasize the particular text in a paragraph. 
+
+Bold Tag
+The <b> tag is used to make the text bold.
+
+Italic Tag
+The <i> tag is used to make the text italic.
+
+Underline Tag
+The <u> tag is used to set the text underline.
+
+Bold_italic_underline
+
+output_page
+
+Link Tag
+The <a> tag links one page to another page. The href attribute is used to define 
+
+The Best Guide to HTML Tags
+By Taha Sufiyan
+Last updated on Feb 20, 202362600
+The Best Guide to HTML Tags
+Table of Contents
+What Is HTML?What Is an HTML Tag?Basic HTML TagsFormatting TagsLink TagView More
+Anytime you go on the internet, you are interacting with HTML code and related tags. HTML is primarily used to develop web pages and web applications that run on web browsers like Chrome, Firefox, and Internet Explorer. HTML tags are keywords present on a web page that define how your web browser must format and display the contents.
+
+Learn From The Best Mentors in the Industry!
+Automation Testing Masters ProgramEXPLORE PROGRAMLearn From The Best Mentors in the Industry!
+What Is HTML?
+HTML, which stands for Hypertext Markup Language, is the language used to describe structured documents and the language used to create web pages on the internet.
+
+You can use any text editor to write the HTML code, such as  Notepad (PC) or TextEdit (Mac). For our demonstration, we will use a sublime text editor, which you can download at https://www.sublimetext.com/3. 
+
+Save the file with the .html extension, and open it using a web browser of your choice.
+
+html_file
+
+What Is an HTML Tag?
+HTML tags are the keywords on a web page that define how your web browser must format and display your web page.
+
+Almost all tags contain two parts, an opening, and a closing tag. For example, <html> is the opening tag and </html> is the closing tag. Note that the closing tag has the same text as the opening tag, but has an additional forward-slash ( / ) character. 
+
+There are a total of 100 HTML tags. We will divide them into categories and discuss the important ones in this article.
+
+Basic HTML Tags
+Head Tag
+The head tag <head> contains all the elements describing the document. 
+
+Title Tag
+The title tag <title> specifies the HTML page title, which is shown in the browser’s title bar. 
+
+Body Tag
+The body tag <body> is where you insert your web page’s content. 
+
+Paragraph Tag
+A paragraph tag <p> is used to define a paragraph on a web page.
+
+Heading Tag 
+The HTML heading tag is used to define the heading of the HTML document. The <h1> tag defines the most important tag, and <h6> defines  the least.
+
+Let’s practice using these tags and create a web page with them:
+
+Title_and_heading_tag-html
+
+Output_title_and_heading_tag
+
+Formatting Tags
+Emphasis tag
+The HTML <em> tag is used to emphasize the particular text in a paragraph. 
+
+Bold Tag
+The <b> tag is used to make the text bold.
+
+Italic Tag
+The <i> tag is used to make the text italic.
+
+Underline Tag
+The <u> tag is used to set the text underline.
+
+Bold_italic_underline
+
+output_page
+
+Link Tag
+The <a> tag links one page to another page. The href attribute is used to define 
+
+Anchor_tag-html_tags
+
+Output_anchor_tag
+
+Learn 15+ In-Demand Tools and Skills!
+Automation Testing Masters ProgramEXPLORE PROGRAMLearn 15+ In-Demand Tools and Skills!
+List Tag
+The <li> tag is used if you want to enter the contents in the listed order. There are two types of lists.
+
+Ordered list <ol>
+Unordered list <ul>
+
+
+
+

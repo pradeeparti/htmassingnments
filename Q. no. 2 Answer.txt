@@ -1,0 +1,22 @@
+The comment tag ( <!-- Comment-->   ) is used to insert comments in the HTML code. 
+It is a good practice of coding, so that coder and the reader can get help to understand the code.
+ It is useful to understand steps of the complex code. 
+ The comment tag is helpful while the debugging of codes.
+
+ For Example:-
+ 
+ <html>
+ 
+<body>
+    <!--This is heading Tag, It wont be displayed by the browser -->
+     
+          <h1>this is comment</h1>
+   
+    <!--This is single line comment,It wont be displayed by the browser -->
+     
+          <h2>This is single line comment</h2>
+ 
+  </body>
+ 
+</html>
+
